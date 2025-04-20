@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: #f5f5f5;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 10px;
+}
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+h1, h2, h3 {
+    color: #333;
+}
+form {
+    margin-top: 10px;
+}
+.scratch-box {
+    background-color: #fef3c7;
+    border: 2px dashed #f59e0b;
+    padding: 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    text-align: center;
+}
